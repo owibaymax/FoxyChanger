@@ -73,7 +73,7 @@ namespace FoxyChanger
 
         private void ProxyChanger_FormClosing(object sender, FormClosingEventArgs e)
         {
-            var dr = MessageBox.Show("Do you want to close Interblocks Foxy Chnager?", "Interblocks Foxy Chnager", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            var dr = MessageBox.Show("Do you want to close Foxy Chnager?", "Interblocks Foxy Chnager", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (dr == DialogResult.Yes)
             {
                 e.Cancel = false;
