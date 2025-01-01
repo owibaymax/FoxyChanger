@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FoxyChanger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PROXY_IP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.18</Value>
+    </Setting>
+    <Setting Name="PROXY_PORT" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8080</Value>
+    </Setting>
+    <Setting Name="HOME_WIFI_SSID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SNOW</Value>
+    </Setting>
+    <Setting Name="ENABLE_AUTO_DETECT" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CLEAR_SERVER_WHEN_DISABLE" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
